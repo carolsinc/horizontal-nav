@@ -15,28 +15,22 @@ h1{
   text-align: center;
 }
 
-.space a {
-display: inline-block;
-padding: .75em .6em;
-background-color: #713837;
-color: #fff;
-border-radius: 4px;
-text-decoration: none;
-}
-
-ul{
+nav ul {
+  margin: 0;
+  padding: 0;
   list-style-type: none;
 }
-.space {
-  display: inline-block;
-margin: 0;
-max-width: 20em;
-padding: 1em;
-background-color: #79756f;
-border-bottom: 3px solid #595652;
-text-align: center;
+
+nav li {
+  display: inline;
 }
 
-div {
-  width: 100%;
+nav a {
+  dislay: inline-block;
+  width:6em;
+  padding:.75em;
+  background-color:#713837;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
 }
