@@ -13,7 +13,8 @@ h1 {
   color: #fff;
   display: block;
   text-align: center;
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
+}
 
 nav ul {
   margin: 0;
