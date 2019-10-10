@@ -1,18 +1,19 @@
 html {
   box-sizing: border-box;
-background-color: #dbd6cf;
-font-family: Bevan, cursive;
-line-height: 1.5;
+  background-color: #dbd6cf;
+  font-family: Bevan, cursive;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-h1{
+h1 {
   color: #fff;
   display: block;
   text-align: center;
+  font-family: Bevan, cursive;
 }
 
 nav ul {
@@ -29,12 +30,12 @@ nav li {
 
 nav a {
   display: inline-block;
-  width:6em;
-  padding:.75em;
+  width: 6em;
+  padding: .75em;
   background-color:#713837;
   color: #fff;
   text-decoration: none;
-  text-align: center;
+  text-align:center;
   border-radius:10px;
 }
 
@@ -44,10 +45,9 @@ nav a:hover {
 
 div {
   background-color: #79756f;
-  margin: 0;
+  margin:0;
   padding:.75em;
   width: 100%;
-  padding:.75em;
   border-top:3px solid #595652;
   border-bottom:3px solid #595652;
 }
