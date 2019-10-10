@@ -2,7 +2,6 @@ html {
   box-sizing: border-box;
   background-color: #dbd6cf;
   line-height: 1.5;
-  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -14,7 +13,8 @@ h1 {
   color: #fff;
   display: block;
   text-align: center;
-  font-family: 'Bevan';
+  font-family: 'Bevan', cursive;
+  line-height: 1.5;
 }
 
 nav ul {
@@ -36,7 +36,7 @@ nav a {
   color: #fff;
   text-decoration: none;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 8px;
 }
 
 nav a:hover {
@@ -46,7 +46,7 @@ nav a:hover {
 body {
   background-color: #79756f;
   margin: 0;
-  padding: .5em;
+  padding: .75em;
   width: 100%;
   border-top: 3px solid #595652;
   border-bottom: 3px solid #595652;
