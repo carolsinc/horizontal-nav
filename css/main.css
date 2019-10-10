@@ -9,7 +9,7 @@ html {
   box-sizing: inherit;
 }
 
-h1 {
+h1  {
   color: #fff;
   display: block;
   text-align: center;
@@ -32,11 +32,11 @@ nav a {
   display: inline-block;
   width: 6em;
   padding: .75em;
-  background-color:#713837;
+  background-color: #713837;
   color: #fff;
   text-decoration: none;
-  text-align:center;
-  border-radius:10px;
+  text-align: center;
+  border-radius: 10px;
 }
 
 nav a:hover {
@@ -45,9 +45,9 @@ nav a:hover {
 
 div {
   background-color: #79756f;
-  margin:0;
-  padding:.75em;
+  margin: 0;
+  padding: .75em;
   width: 100%;
-  border-top:3px solid #595652;
-  border-bottom:3px solid #595652;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
 }
