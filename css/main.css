@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
 background-color: #dbd6cf;
-font-family: Bevan, sans-serif;
+font-family: Bevan, cursive;
 line-height: 1.5;
 }
 
@@ -19,6 +19,8 @@ nav ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-align: center;
+  font-family: sans-serif;
 }
 
 nav li {
@@ -33,4 +35,19 @@ nav a {
   color: #fff;
   text-decoration: none;
   text-align: center;
+  border-radius:10px;
+}
+
+nav a:hover {
+  background-color: #f33;
+}
+
+div {
+  background-color: #79756f;
+  margin: 0;
+  padding:.75em;
+  width: 100%;
+  padding:.75em;
+  border-top:3px solid #595652;
+  border-bottom:3px solid #595652;
 }
