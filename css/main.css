@@ -28,7 +28,7 @@ nav li {
 }
 
 nav a {
-  dislay: inline-block;
+  display: inline-block;
   width:6em;
   padding:.75em;
   background-color:#713837;
